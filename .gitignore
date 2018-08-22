@@ -1,0 +1,17 @@
+.idea/
+.project
+.pydevproject
+.svn/
+BAK/
+DSP/
+FileIO/
+GUI/
+Matlab/
+Path/
+SON/
+Spikes/
+Stats/ChangeLog
+Stats/Makefile
+Stats/monte.pyc
+Stats/monte (Bonne\342\200\231s MacBook Pro's conflicted copy 2015-04-29).py
+
